@@ -55,7 +55,7 @@ Create real-world AI products that solve practical problems.
 
 ### AI & Data Science
 
-![IBM Watsonx](https://img.shields.io/badge/IBM-Watsonx-blue?style=for-the-badge&logo=ibm)
+![IBM Cloud](https://img.shields.io/badge/IBM-Watsonx-blue?style=for-the-badge&logo=ibm)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple?style=for-the-badge)
 
