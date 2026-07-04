@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Vineetha Vijay
+# 👋 Hi, I'm Vineetha V
 
 <h3 align="center">AI Engineering Student | Prompt Engineer | Full Stack Developer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Prompt+Engineering+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New" />
 </p>
 
 ---
